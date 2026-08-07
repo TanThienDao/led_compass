@@ -1,0 +1,8 @@
+[package]
+name = "led_compass"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+auxiliary = { path = "auxiliary" }
+micromath = "1.1.1"
