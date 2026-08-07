@@ -2,6 +2,11 @@
 
 A compass application for the STM32F3 Discovery microcontroller that uses the onboard LSM303AGR magnetometer to detect cardinal directions and display them on the 8 user LEDs.
 
+<video width="320" height="240" controls>
+  <source src="IMG_9308.mov" type="video/mp4">
+</video>
+
+
 ## Overview
 
 This project reads magnetic field data from the LSM303AGR sensor and calculates the heading angle. Based on the calculated angle, it determines the cardinal direction (N, NE, E, SE, S, SW, W, NW) and illuminates the corresponding LED to indicate the direction.
