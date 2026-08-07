@@ -2,9 +2,7 @@
 
 A compass application for the STM32F3 Discovery microcontroller that uses the onboard LSM303AGR magnetometer to detect cardinal directions and display them on the 8 user LEDs.
 
-<video width="320" height="240" controls>
-  <source src="IMG_9308.mov" type="video/mp4">
-</video>
+   <img src="IMG_9308.gif" width="300" alt="LED Demo" />
 
 
 ## Overview
