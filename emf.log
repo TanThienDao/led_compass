@@ -1,0 +1,625 @@
+I16x3 { x: 355, y: -318, z: -268 }
+Heading (angle_rad): -0.730649 radians
+Heading (angle_deg): -41.863102 degrees
+Quadrant IV: Southwest
+Magnitude: 84197.15 mG
+I16x3 { x: 336, y: -328, z: -300 }
+Heading (angle_rad): -0.7742918 radians
+Heading (angle_deg): -44.36365 degrees
+Quadrant IV: Southwest
+Magnitude: 86121.77 mG
+I16x3 { x: 304, y: -366, z: -405 }
+Heading (angle_rad): -0.8754679 radians
+Heading (angle_deg): -50.160614 degrees
+Quadrant IV: Southwest
+Magnitude: 99070.16 mG
+I16x3 { x: 43, y: 177, z: -555 }
+Heading (angle_rad): 1.3306383 radians
+Heading (angle_deg): 76.23995 degrees
+East
+Magnitude: 91346.8 mG
+I16x3 { x: -147, y: 162, z: -574 }
+Heading (angle_rad): 2.3084528 radians
+Heading (angle_deg): 132.2646 degrees
+Quadrant II: Northeast
+Magnitude: 97639.39 mG
+I16x3 { x: -232, y: 90, z: -568 }
+Heading (angle_rad): 2.7705517 radians
+Heading (angle_deg): 158.7409 degrees
+North
+Magnitude: 98610.73 mG
+I16x3 { x: -292, y: 43, z: -540 }
+Heading (angle_rad): 2.9965076 radians
+Heading (angle_deg): 171.68723 degrees
+North
+Magnitude: 97835.984 mG
+I16x3 { x: -276, y: -69, z: -582 }
+Heading (angle_rad): -2.8973553 radians
+Heading (angle_deg): -166.00623 degrees
+North
+Magnitude: 101555.79 mG
+I16x3 { x: -288, y: -144, z: -580 }
+Heading (angle_rad): -2.6752498 radians
+Heading (angle_deg): -153.28052 degrees
+Quadrant III: Northwest
+Magnitude: 103358.17 mG
+I16x3 { x: -271, y: -202, z: -652 }
+Heading (angle_rad): -2.4986813 radians
+Heading (angle_deg): -143.16388 degrees
+Quadrant III: Northwest
+Magnitude: 111925.32 mG
+I16x3 { x: -382, y: -225, z: -742 }
+Heading (angle_rad): -2.607058 radians
+Heading (angle_deg): -149.37341 degrees
+Quadrant III: Northwest
+Magnitude: 129757.74 mG
+I16x3 { x: -34, y: -627, z: -1609 }
+Heading (angle_rad): -1.6234692 radians
+Heading (angle_deg): -93.01793 degrees
+West
+Magnitude: 259166.13 mG
+I16x3 { x: 553, y: -288, z: -1071 }
+Heading (angle_rad): -0.48254296 radians
+Heading (angle_deg): -27.647675 degrees
+Quadrant IV: Southwest
+Magnitude: 197004.88 mG
+I16x3 { x: 276, y: 64, z: -736 }
+Heading (angle_rad): 0.22849943 radians
+Heading (angle_deg): 13.092052 degrees
+South
+Magnitude: 118988.65 mG
+I16x3 { x: -55, y: 166, z: -579 }
+Heading (angle_rad): 1.8934252 radians
+Heading (angle_deg): 108.48527 degrees
+East
+Magnitude: 95603.53 mG
+I16x3 { x: -225, y: 31, z: -589 }
+Heading (angle_rad): 3.005142 radians
+Heading (angle_deg): 172.18195 degrees
+North
+Magnitude: 99793.39 mG
+I16x3 { x: -241, y: -99, z: -612 }
+Heading (angle_rad): -2.7505577 radians
+Heading (angle_deg): -157.59534 degrees
+North
+Magnitude: 103530.43 mG
+I16x3 { x: -277, y: 19, z: -537 }
+Heading (angle_rad): 3.0740204 radians
+Heading (angle_deg): 176.12839 degrees
+North
+Magnitude: 95554.09 mG
+I16x3 { x: -79, y: 252, z: -520 }
+Heading (angle_rad): 1.8769484 radians
+Heading (angle_deg): 107.541214 degrees
+East
+Magnitude: 91260.67 mG
+I16x3 { x: 216, y: -1, z: -679 }
+Heading (angle_rad): -0.006525411 radians
+Heading (angle_deg): -0.37387848 degrees
+South
+Magnitude: 109170.48 mG
+I16x3 { x: 283, y: -477, z: -1195 }
+Heading (angle_rad): -1.0317482 radians
+Heading (angle_deg): -59.11481 degrees
+Quadrant IV: Southwest
+Magnitude: 205621.17 mG
+I16x3 { x: -351, y: -211, z: -624 }
+Heading (angle_rad): -2.596505 radians
+Heading (angle_deg): -148.76877 degrees
+Quadrant III: Northwest
+Magnitude: 113370.234 mG
+I16x3 { x: 190, y: 99, z: -198 }
+Heading (angle_rad): 0.48203704 radians
+Heading (angle_deg): 27.618687 degrees
+Quadrant I: Southeast
+Magnitude: 45667.8 mG
+I16x3 { x: 190, y: 108, z: -192 }
+Heading (angle_rad): 0.5185752 radians
+Heading (angle_deg): 29.712168 degrees
+Quadrant I: Southeast
+Magnitude: 45504.035 mG
+I16x3 { x: 196, y: 96, z: -196 }
+Heading (angle_rad): 0.45708653 radians
+Heading (angle_deg): 26.189127 degrees
+Quadrant I: Southeast
+Magnitude: 46060.992 mG
+I16x3 { x: 61, y: 286, z: -505 }
+Heading (angle_rad): 1.3608043 radians
+Heading (angle_deg): 77.96834 degrees
+East
+Magnitude: 91372.3 mG
+I16x3 { x: -1, y: 286, z: -483 }
+Heading (angle_rad): 1.575712 radians
+Heading (angle_deg): 90.28164 degrees
+East
+Magnitude: 86905.445 mG
+I16x3 { x: 364, y: 160, z: -487 }
+Heading (angle_rad): 0.41708437 radians
+Heading (angle_deg): 23.897173 degrees
+Quadrant I: Southeast
+Magnitude: 99548.7 mG
+I16x3 { x: 319, y: -94, z: -723 }
+Heading (angle_rad): -0.2877596 radians
+Heading (angle_deg): -16.48741 degrees
+South
+Magnitude: 119930.3 mG
+I16x3 { x: 301, y: -253, z: -790 }
+Heading (angle_rad): -0.70045024 radians
+Heading (angle_deg): -40.13284 degrees
+Quadrant IV: Southwest
+Magnitude: 132488.64 mG
+I16x3 { x: 316, y: -316, z: -790 }
+Heading (angle_rad): -0.7853982 radians
+Heading (angle_deg): -45 degrees
+Quadrant IV: Southwest
+Magnitude: 136366.47 mG
+I16x3 { x: 274, y: -364, z: -831 }
+Heading (angle_rad): -0.9233074 radians
+Heading (angle_deg): -52.901615 degrees
+Quadrant IV: Southwest
+Magnitude: 142678.17 mG
+I16x3 { x: 58, y: -405, z: -924 }
+Heading (angle_rad): -1.4299432 radians
+Heading (angle_deg): -81.9297 degrees
+West
+Magnitude: 153188.3 mG
+I16x3 { x: -142, y: -363, z: -900 }
+Heading (angle_rad): -1.9466535 radians
+Heading (angle_deg): -111.53503 degrees
+West
+Magnitude: 148111.58 mG
+I16x3 { x: -219, y: -306, z: -843 }
+Heading (angle_rad): -2.1942453 radians
+Heading (angle_deg): -125.72099 degrees
+Quadrant III: Northwest
+Magnitude: 138684.86 mG
+I16x3 { x: -294, y: -267, z: -739 }
+Heading (angle_rad): -2.4035285 radians
+Heading (angle_deg): -137.71204 degrees
+Quadrant III: Northwest
+Magnitude: 126011.03 mG
+I16x3 { x: -357, y: -192, z: -631 }
+Heading (angle_rad): -2.645346 radians
+Heading (angle_deg): -151.56715 degrees
+Quadrant III: Northwest
+Magnitude: 113867.71 mG
+I16x3 { x: -342, y: -135, z: -600 }
+Heading (angle_rad): -2.7638245 radians
+Heading (angle_deg): -158.35547 degrees
+North
+Magnitude: 108038.414 mG
+I16x3 { x: -334, y: -94, z: -564 }
+Heading (angle_rad): -2.8663354 radians
+Heading (angle_deg): -164.22891 degrees
+North
+Magnitude: 103208.5 mG
+I16x3 { x: -294, y: -78, z: -583 }
+Heading (angle_rad): -2.8826878 radians
+Heading (angle_deg): -165.16583 degrees
+North
+Magnitude: 102700.02 mG
+I16x3 { x: -276, y: -60, z: -583 }
+Heading (angle_rad): -2.9289367 radians
+Heading (angle_deg): -167.8157 degrees
+North
+Magnitude: 101606.195 mG
+I16x3 { x: -300, y: -27, z: -576 }
+Heading (angle_rad): -3.0546184 radians
+Heading (angle_deg): -175.01672 degrees
+North
+Magnitude: 101799.89 mG
+I16x3 { x: -300, y: -24, z: -547 }
+Heading (angle_rad): -3.0644667 radians
+Heading (angle_deg): -175.581 degrees
+North
+Magnitude: 99038.484 mG
+I16x3 { x: -301, y: -1, z: -538 }
+Heading (angle_rad): -3.1369224 radians
+Heading (angle_deg): -179.7324 degrees
+North
+Magnitude: 98151.55 mG
+I16x3 { x: -294, y: 43, z: -517 }
+Heading (angle_rad): 2.997259 radians
+Heading (angle_deg): 171.73027 degrees
+North
+Magnitude: 93902.54 mG
+I16x3 { x: -238, y: 49, z: -529 }
+Heading (angle_rad): 2.9385488 radians
+Heading (angle_deg): 168.36644 degrees
+North
+Magnitude: 91081.836 mG
+I16x3 { x: -210, y: 55, z: -553 }
+Heading (angle_rad): 2.8836622 radians
+Heading (angle_deg): 165.22166 degrees
+North
+Magnitude: 93457.59 mG
+I16x3 { x: -225, y: 123, z: -547 }
+Heading (angle_rad): 2.6384935 radians
+Heading (angle_deg): 151.17453 degrees
+Quadrant II: Northeast
+Magnitude: 95511.99 mG
+I16x3 { x: -193, y: 198, z: -549 }
+Heading (angle_rad): 2.3448837 radians
+Heading (angle_deg): 134.35193 degrees
+Quadrant II: Northeast
+Magnitude: 97664.11 mG
+I16x3 { x: -28, y: 177, z: -552 }
+Heading (angle_rad): 1.7280513 radians
+Heading (angle_deg): 99.01004 degrees
+East
+Magnitude: 90591.31 mG
+I16x3 { x: 208, y: 268, z: -456 }
+Heading (angle_rad): 0.90868694 radians
+Heading (angle_deg): 52.063923 degrees
+Quadrant I: Southeast
+Magnitude: 88300.54 mG
+I16x3 { x: 382, y: 192, z: -507 }
+Heading (angle_rad): 0.46791846 radians
+Heading (angle_deg): 26.809752 degrees
+Quadrant I: Southeast
+Magnitude: 103320.32 mG
+I16x3 { x: 709, y: -102, z: -744 }
+Heading (angle_rad): -0.14017835 radians
+Heading (angle_deg): -8.031628 degrees
+South
+Magnitude: 157145.69 mG
+I16x3 { x: 891, y: -196, z: -889 }
+Heading (angle_rad): -0.21572204 radians
+Heading (angle_deg): -12.3599615 degrees
+South
+Magnitude: 200753.8 mG
+I16x3 { x: 640, y: 91, z: -654 }
+Heading (angle_rad): 0.13928103 radians
+Heading (angle_deg): 7.980215 degrees
+South
+Magnitude: 138176.95 mG
+I16x3 { x: 321, y: 415, z: -195 }
+Heading (angle_rad): 0.91113997 radians
+Heading (angle_deg): 52.20447 degrees
+Quadrant I: Southeast
+Magnitude: 86619.24 mG
+I16x3 { x: -127, y: 280, z: -502 }
+Heading (angle_rad): 1.9998449 radians
+Heading (angle_deg): 114.582664 degrees
+Quadrant II: Northeast
+Magnitude: 92410.5 mG
+I16x3 { x: -178, y: 162, z: -561 }
+Heading (angle_rad): 2.4038525 radians
+Heading (angle_deg): 137.73059 degrees
+Quadrant II: Northeast
+Magnitude: 96768.04 mG
+I16x3 { x: -117, y: 163, z: -592 }
+Heading (angle_rad): 2.1941864 radians
+Heading (angle_deg): 125.71761 degrees
+Quadrant II: Northeast
+Magnitude: 99136.78 mG
+I16x3 { x: -210, y: 121, z: -588 }
+Heading (angle_rad): 2.614257 radians
+Heading (angle_deg): 149.78589 degrees
+Quadrant II: Northeast
+Magnitude: 100263.63 mG
+I16x3 { x: -297, y: 46, z: -610 }
+Heading (angle_rad): 2.9887402 radians
+Heading (angle_deg): 171.24219 degrees
+North
+Magnitude: 105282.6 mG
+I16x3 { x: -339, y: -31, z: -666 }
+Heading (angle_rad): -3.0517375 radians
+Heading (angle_deg): -174.85167 degrees
+North
+Magnitude: 113555.63 mG
+I16x3 { x: -315, y: -123, z: -769 }
+Heading (angle_rad): -2.767571 radians
+Heading (angle_deg): -158.57013 degrees
+North
+Magnitude: 126174.02 mG
+I16x3 { x: -163, y: -339, z: -886 }
+Heading (angle_rad): -2.0227919 radians
+Heading (angle_deg): -115.89743 degrees
+Quadrant III: Northwest
+Magnitude: 145147 mG
+I16x3 { x: 277, y: -498, z: -951 }
+Heading (angle_rad): -1.0595936 radians
+Heading (angle_deg): -60.710236 degrees
+Quadrant IV: Southwest
+Magnitude: 171057.2 mG
+I16x3 { x: 403, y: -225, z: -744 }
+Heading (angle_rad): -0.5115017 radians
+Heading (angle_deg): -29.306889 degrees
+Quadrant IV: Southwest
+Magnitude: 131365.84 mG
+I16x3 { x: 382, y: -81, z: -606 }
+Heading (angle_rad): -0.20716606 radians
+Heading (angle_deg): -11.8697405 degrees
+South
+Magnitude: 110176.82 mG
+I16x3 { x: 225, y: 81, z: -550 }
+Heading (angle_rad): 0.3468724 radians
+Heading (angle_deg): 19.874323 degrees
+South
+Magnitude: 94606.65 mG
+I16x3 { x: 66, y: 154, z: -571 }
+Heading (angle_rad): 1.1649003 radians
+Heading (angle_deg): 66.743866 degrees
+Quadrant I: Southeast
+Magnitude: 93680.06 mG
+I16x3 { x: -22, y: 153, z: -600 }
+Heading (angle_rad): 1.7142385 radians
+Heading (angle_deg): 98.21863 degrees
+East
+Magnitude: 98487.71 mG
+I16x3 { x: -84, y: 135, z: -610 }
+Heading (angle_rad): 2.130129 radians
+Heading (angle_deg): 122.0474 degrees
+Quadrant II: Northeast
+Magnitude: 99695.86 mG
+I16x3 { x: -130, y: 99, z: -606 }
+Heading (angle_rad): 2.4906223 radians
+Heading (angle_deg): 142.70213 degrees
+Quadrant II: Northeast
+Magnitude: 99359.06 mG
+I16x3 { x: -204, y: 81, z: -621 }
+Heading (angle_rad): 2.761788 radians
+Heading (angle_deg): 158.23878 degrees
+North
+Magnitude: 102770.9 mG
+I16x3 { x: -118, y: 144, z: -607 }
+Heading (angle_rad): 2.260827 radians
+Heading (angle_deg): 129.53584 degrees
+Quadrant II: Northeast
+Magnitude: 100197.39 mG
+I16x3 { x: 34, y: 195, z: -549 }
+Heading (angle_rad): 1.3978344 radians
+Heading (angle_deg): 80.09001 degrees
+East
+Magnitude: 91238.65 mG
+I16x3 { x: 274, y: 121, z: -529 }
+Heading (angle_rad): 0.41902432 radians
+Heading (angle_deg): 24.008324 degrees
+Quadrant I: Southeast
+Magnitude: 96365.58 mG
+I16x3 { x: 436, y: -106, z: -709 }
+Heading (angle_rad): -0.23844564 radians
+Heading (angle_deg): -13.661928 degrees
+South
+Magnitude: 126069.36 mG
+I16x3 { x: 247, y: -372, z: -868 }
+Heading (angle_rad): -0.981165 radians
+Heading (angle_deg): -56.21661 degrees
+Quadrant IV: Southwest
+Magnitude: 147412.67 mG
+I16x3 { x: -106, y: -469, z: -865 }
+Heading (angle_rad): -1.7926431 radians
+Heading (angle_deg): -102.71088 degrees
+West
+Magnitude: 149724.13 mG
+I16x3 { x: -300, y: -348, z: -769 }
+Heading (angle_rad): -2.2834017 radians
+Heading (angle_deg): -130.82927 degrees
+Quadrant III: Northwest
+Magnitude: 134478.14 mG
+I16x3 { x: -388, y: -258, z: -696 }
+Heading (angle_rad): -2.5528085 radians
+Heading (angle_deg): -146.26515 degrees
+Quadrant III: Northwest
+Magnitude: 125781.61 mG
+I16x3 { x: -342, y: -159, z: -630 }
+Heading (angle_rad): -2.7039094 radians
+Heading (angle_deg): -154.92259 degrees
+Quadrant III: Northwest
+Magnitude: 111811.19 mG
+I16x3 { x: -310, y: -105, z: -606 }
+Heading (angle_rad): -2.8145392 radians
+Heading (angle_deg): -161.26122 degrees
+North
+Magnitude: 106277.36 mG
+I16x3 { x: -321, y: 21, z: -561 }
+Heading (angle_rad): 3.07877 radians
+Heading (angle_deg): 176.40051 degrees
+North
+Magnitude: 101430.65 mG
+I16x3 { x: -271, y: 106, z: -529 }
+Heading (angle_rad): 2.7659967 radians
+Heading (angle_deg): 158.47993 degrees
+North
+Magnitude: 95497.31 mG
+I16x3 { x: -126, y: 145, z: -591 }
+Heading (angle_rad): 2.2856076 radians
+Heading (angle_deg): 130.95566 degrees
+Quadrant II: Northeast
+Magnitude: 98694.734 mG
+I16x3 { x: -37, y: 156, z: -583 }
+Heading (angle_rad): 1.8057659 radians
+Heading (angle_deg): 103.46276 degrees
+East
+Magnitude: 95632.88 mG
+I16x3 { x: 91, y: 91, z: -517 }
+Heading (angle_rad): 0.7853982 radians
+Heading (angle_deg): 45 degrees
+Quadrant I: Southeast
+Magnitude: 81614.37 mG
+I16x3 { x: 190, y: -66, z: -438 }
+Heading (angle_rad): -0.3346153 radians
+Heading (angle_deg): -19.172043 degrees
+South
+Magnitude: 72677.59 mG
+I16x3 { x: 123, y: 259, z: -478 }
+Heading (angle_rad): 1.1256157 radians
+Heading (angle_deg): 64.49303 degrees
+Quadrant I: Southeast
+Magnitude: 86228.76 mG
+I16x3 { x: -237, y: 183, z: -564 }
+Heading (angle_rad): 2.4821906 radians
+Heading (angle_deg): 142.21904 degrees
+Quadrant II: Northeast
+Magnitude: 100533.805 mG
+I16x3 { x: -306, y: 96, z: -585 }
+Heading (angle_rad): 2.8370662 radians
+Heading (angle_deg): 162.55191 degrees
+North
+Magnitude: 103737.266 mG
+I16x3 { x: -315, y: 42, z: -615 }
+Heading (angle_rad): 3.0117471 radians
+Heading (angle_deg): 172.5604 degrees
+North
+Magnitude: 106667.266 mG
+I16x3 { x: -366, y: -3, z: -636 }
+Heading (angle_rad): -3.1338866 radians
+Heading (angle_deg): -179.55847 degrees
+North
+Magnitude: 111752.48 mG
+I16x3 { x: -450, y: -57, z: -646 }
+Heading (angle_rad): -3.0183525 radians
+Heading (angle_deg): -172.93884 degrees
+North
+Magnitude: 119069.56 mG
+I16x3 { x: -451, y: -75, z: -633 }
+Heading (angle_rad): -2.979301 radians
+Heading (angle_deg): -170.70135 degrees
+North
+Magnitude: 117906.99 mG
+I16x3 { x: -465, y: -70, z: -607 }
+Heading (angle_rad): -2.9936414 radians
+Heading (angle_deg): -171.52301 degrees
+North
+Magnitude: 116197.69 mG
+I16x3 { x: -421, y: -99, z: -645 }
+Heading (angle_rad): -2.9119506 radians
+Heading (angle_deg): -166.84247 degrees
+North
+Magnitude: 117333.81 mG
+I16x3 { x: -496, y: -204, z: -789 }
+Heading (angle_rad): -2.7497437 radians
+Heading (angle_deg): -157.5487 degrees
+North
+Magnitude: 143697.66 mG
+I16x3 { x: -579, y: -279, z: -928 }
+Heading (angle_rad): -2.689953 radians
+Heading (angle_deg): -154.12296 degrees
+Quadrant III: Northwest
+Magnitude: 174986.8 mG
+I16x3 { x: -600, y: -384, z: -1078 }
+Heading (angle_rad): -2.5696082 radians
+Heading (angle_deg): -147.22769 degrees
+Quadrant III: Northwest
+Magnitude: 202767.16 mG
+I16x3 { x: -409, y: -556, z: -1273 }
+Heading (angle_rad): -2.207317 radians
+Heading (angle_deg): -126.46995 degrees
+Quadrant III: Northwest
+Magnitude: 221159.23 mG
+I16x3 { x: -55, y: -648, z: -1309 }
+Heading (angle_rad): -1.6534815 radians
+Heading (angle_deg): -94.7375 degrees
+West
+Magnitude: 222815.33 mG
+I16x3 { x: 411, y: -532, z: -999 }
+Heading (angle_rad): -0.91159284 radians
+Heading (angle_deg): -52.23042 degrees
+Quadrant IV: Southwest
+Magnitude: 190031.55 mG
+I16x3 { x: 334, y: -243, z: -870 }
+Heading (angle_rad): -0.6304646 radians
+Heading (angle_deg): -36.12296 degrees
+Quadrant IV: Southwest
+Magnitude: 145173.08 mG
+I16x3 { x: 420, y: -171, z: -588 }
+Heading (angle_rad): -0.38860723 radians
+Heading (angle_deg): -22.265553 degrees
+South
+Magnitude: 112861.75 mG
+I16x3 { x: 309, y: -109, z: -592 }
+Heading (angle_rad): -0.3417901 radians
+Heading (angle_deg): -19.58313 degrees
+South
+Magnitude: 104891.734 mG
+I16x3 { x: 202, y: -24, z: -519 }
+Heading (angle_rad): -0.11516878 radians
+Heading (angle_deg): -6.598685 degrees
+South
+Magnitude: 86144.945 mG
+I16x3 { x: 99, y: 106, z: -550 }
+Heading (angle_rad): 0.82130104 radians
+Heading (angle_deg): 47.05708 degrees
+Quadrant I: Southeast
+Magnitude: 88419.5 mG
+I16x3 { x: 31, y: 159, z: -561 }
+Heading (angle_rad): 1.3769922 radians
+Heading (angle_deg): 78.895836 degrees
+East
+Magnitude: 91303.54 mG
+I16x3 { x: -31, y: 189, z: -570 }
+Heading (angle_rad): 1.7336352 radians
+Heading (angle_deg): 99.32997 degrees
+East
+Magnitude: 94843.02 mG
+I16x3 { x: -160, y: 141, z: -606 }
+Heading (angle_rad): 2.4197736 radians
+Heading (angle_deg): 138.6428 degrees
+Quadrant II: Northeast
+Magnitude: 100973.54 mG
+I16x3 { x: -202, y: 88, z: -598 }
+Heading (angle_rad): 2.7272992 radians
+Heading (angle_deg): 156.26273 degrees
+Quadrant II: Northeast
+Magnitude: 100472.586 mG
+I16x3 { x: -264, y: 81, z: -570 }
+Heading (angle_rad): 2.8434966 radians
+Heading (angle_deg): 162.92035 degrees
+North
+Magnitude: 99967.58 mG
+I16x3 { x: -301, y: -4, z: -559 }
+Heading (angle_rad): -3.127518 radians
+Heading (angle_deg): -179.19357 degrees
+North
+Magnitude: 100208.4 mG
+I16x3 { x: -315, y: -51, z: -565 }
+Heading (angle_rad): -2.9834602 radians
+Heading (angle_deg): -170.93967 degrees
+North
+Magnitude: 101723.61 mG
+I16x3 { x: -343, y: -81, z: -550 }
+Heading (angle_rad): -2.9110482 radians
+Heading (angle_deg): -166.79077 degrees
+North
+Magnitude: 102237.5 mG
+I16x3 { x: -364, y: -115, z: -564 }
+Heading (angle_rad): -2.8341458 radians
+Heading (angle_deg): -162.38458 degrees
+North
+Magnitude: 105386.88 mG
+I16x3 { x: -358, y: -138, z: -577 }
+Heading (angle_rad): -2.77246 radians
+Heading (angle_deg): -158.85025 degrees
+North
+Magnitude: 106826.78 mG
+I16x3 { x: -294, y: -199, z: -633 }
+Heading (angle_rad): -2.5429013 radians
+Heading (angle_deg): -145.69751 degrees
+Quadrant III: Northwest
+Magnitude: 110762.36 mG
+I16x3 { x: -376, y: -123, z: -553 }
+Heading (angle_rad): -2.8250685 radians
+Heading (angle_deg): -161.86449 degrees
+North
+Magnitude: 105296.51 mG
+I16x3 { x: -357, y: -52, z: -544 }
+Heading (angle_rad): -2.9981506 radians
+Heading (angle_deg): -171.78137 degrees
+North
+Magnitude: 102158.71 mG
+I16x3 { x: -363, y: 30, z: -523 }
+Heading (angle_rad): 3.0618649 radians
+Heading (angle_deg): 175.43193 degrees
+North
+Magnitude: 100445.164 mG
+I16x3 { x: -337, y: 43, z: -535 }
+Heading (angle_rad): 3.0161507 radians
+Heading (angle_deg): 172.8127 degrees
+North
+Magnitude: 100087.89 mG
+I16x3 { x: -283, y: 91, z: -571 }
+Heading (angle_rad): 2.828705 radians
+Heading (angle_deg): 162.07286 degrees
+North
+Magnitude: 101186.35 mG

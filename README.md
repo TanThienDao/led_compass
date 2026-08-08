@@ -141,6 +141,72 @@ tail -f itm.log
 - **micromath**: Embedded math library
 - **panic_itm**: Panic handler that uses ITM for output
 
+## Calibration and Visualization
+
+### Magnetometer Calibration Graph
+
+The `calibration.py` script processes magnetometer data and creates a visual representation of the magnetic field. This helps identify any calibration issues or magnetic anomalies.
+
+#### Prerequisites
+
+1. Install Python and required dependencies:
+   ```bash
+   # Install Python 3.x if not already installed
+   python3 --version
+   
+   # Install required packages
+   pip install -r requirement.txt
+   ```
+
+   Or manually install:
+   ```bash
+   pip install numpy matplotlib seaborn six
+   ```
+
+#### Usage
+
+1. **Collect EMF Data**: Run the compass application and capture the ITM output containing magnetometer readings:
+   ```bash
+   cargo run --release 2>&1 | tee emf.log
+   ```
+
+2. **Generate Calibration Graph**:
+   ```bash
+   python3 calibration.py emf.log
+   ```
+
+   This will create an `emf.svg` file containing the visualization.
+
+#### Data Format
+
+The script accepts two data formats:
+
+**I16x3 Format** (from ITM output):
+```
+I16x3 { x: 123, y: 456, z: 789 }
+```
+
+**CSV Format** (Tab-separated):
+```
+123	456	789
+```
+
+#### Output
+
+- **emf.svg**: A scatter plot showing the X-Y magnetometer readings
+  - Visualizes the distribution of magnetic field measurements
+  - Useful for identifying calibration offsets or magnetic interference
+  - A well-calibrated magnetometer should show points distributed in a circle centered at the origin
+  
+  <img src="emf.svg" width="300" alt="Magnetometer Calibration" />
+
+#### Tips for Good Calibration
+
+1. Rotate the device in all directions while collecting data
+2. Avoid areas with strong magnetic interference (electrical equipment, metal objects)
+3. Ensure the magnetometer readings form a circle (not an ellipse) for accurate heading calculation
+4. If the circle is offset from the origin, the sensor may need calibration adjustment in the firmware
+
 ## Troubleshooting
 
 ### "Protocol error with Rcmd: FC"
